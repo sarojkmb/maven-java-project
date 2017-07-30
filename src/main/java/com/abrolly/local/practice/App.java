@@ -12,9 +12,11 @@ public class App
 	 //public static void main() throws IOException
     {
     	
-        System.out.println("Hello!");
-        
-        System.out.println("Hello123");
+        System.out.println("<<<<<<<<<Begin>>>>>>>>>\n");
+       // VideoTest1.runTestFfmpeg();
+       // VideoTest1.testConsoleOutput();
+        VideoTest1.test3();
+        System.out.println("\n<<<<<<<<<<End>>>>>>>>>>");
         
        
     }
